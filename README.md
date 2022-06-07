@@ -15,8 +15,14 @@ I'm Savika VONGVEUNNEUA!
 
 
 <h2>✨ About my Award</h2>
-
-![Vi award Image](./IMG_5349.JPG) ![Vi award Image](./IMG_5596.JPG)
+- Consolation prize to The Category of Brand Identity Design Contest		                        2017
+- Consolation prize The symbol design competition of TDTU			                                  2018
+- One of STDT Communications members awarded a Certificate of merit for contribulting
+  to the development of TDTU in the academic				                                            2015 - 2016
+- Excellent study and training of TDTU in the academic						                              2015 - 2016
+- Iconic Laos student in the academic					                                                  2014, 2015, 2016, 2017, 2018, 2019
+- Iconic Laos student excellence of sposts				                                              2020
+- Certificate of merit for contribulting to the development of TDTU in excellence of sposts	    2020
 
 
 
