@@ -16,8 +16,7 @@ I'm Savika VONGVEUNNEUA!
 
 <h2>✨ About my Award</h2>
 
-![Vi award Image](./IMG_5349.JPG)
-![Vi award Image](./IMG_5596.JPG)
+![Vi award Image](./IMG_5349.JPG) ![Vi award Image](./IMG_5596.JPG)
 
 
 
